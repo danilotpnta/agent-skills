@@ -14,6 +14,11 @@ From within a Claude Code session:
 /reload-plugins
 ```
 
+> **Note:** If skills don't appear after installing, clear the plugin cache and reinstall:
+> ```bash
+> rm -rf ~/.claude/plugins/cache/
+> ```
+
 ### Install manually (local development)
 
 Clone the repo and add it as a local plugin:
