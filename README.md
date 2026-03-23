@@ -6,15 +6,12 @@ A collection of [Claude Code](https://claude.ai/claude-code) skills for modern P
 
 ### Install via Claude Code plugin system
 
-```
-/plugin install danilotpnta/agent-skills
-```
-
-Or from within a Claude Code session:
+From within a Claude Code session:
 
 ```
 /plugin marketplace add danilotpnta/agent-skills
 /plugin install agent-skills@agent-skills
+/reload-plugins
 ```
 
 ### Install manually (local development)

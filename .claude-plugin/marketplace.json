@@ -1,0 +1,27 @@
+{
+  "name": "agent-skills",
+  "owner": {
+    "name": "danilotpnta",
+    "url": "https://github.com/danilotpnta"
+  },
+  "metadata": {
+    "description": "A growing collection of Claude Code skills for Python developers — covering development workflows, tooling, and agentic patterns.",
+    "homepage": "https://github.com/danilotpnta/agent-skills"
+  },
+  "plugins": [
+    {
+      "name": "agent-skills",
+      "source": ".",
+      "description": "A growing collection of Claude Code skills for Python developers — covering development workflows, tooling, and agentic patterns.",
+      "version": "1.2.0",
+      "author": {
+        "name": "danilotpnta",
+        "url": "https://github.com/danilotpnta"
+      },
+      "homepage": "https://github.com/danilotpnta/agent-skills",
+      "repository": "https://github.com/danilotpnta/agent-skills",
+      "license": "MIT",
+      "keywords": ["skills", "python", "uv", "workflows", "productivity"]
+    }
+  ]
+}
