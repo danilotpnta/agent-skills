@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.3.0] - 2026-03-24
+
+### Added
+- `repo-security-review` skill: audit a GitHub repo, install script, or package for malicious code, data collection, and supply chain risks before installation
+
 ## [1.2.0] - 2026-03-23
 
 ### Added
