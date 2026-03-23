@@ -63,4 +63,4 @@ See [skills/uv-manager/SKILL.md](skills/uv-manager/SKILL.md) for an example of s
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE) License - see LICENSE file for details

@@ -6,5 +6,37 @@ dist/
 wheels/
 *.egg-info
 
-# Virtual environments
+# Environments
+.env
 .venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+data/
+!data/.gitkeep
+
+# Secrets
+.env
+.env.local
+.env.*.local
+secrets.yaml
+secrets.yml
+*.pem
+*.key
+credentials.json
+token.json
+service-account.json
+
+
+# Temporary files
+tmp/
+temp/
+*.tmp
