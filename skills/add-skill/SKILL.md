@@ -63,7 +63,7 @@ Add a row to the skills table:
 
 ## Step 6 — Bump version and update CHANGELOG
 
-In `.claude-plugin/plugin.json`, increment the minor version (e.g. `1.1.0` → `1.2.0`).
+In both `.claude-plugin/plugin.json` and `.claude-plugin/marketplace.json`, increment the minor version (e.g. `1.1.0` → `1.2.0`). Keep them in sync.
 
 In `CHANGELOG.md`, add a new entry at the top:
 
