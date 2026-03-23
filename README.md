@@ -10,7 +10,7 @@ From within a Claude Code session:
 
 ```
 /plugin marketplace add danilotpnta/agent-skills
-/plugin install agent-skills@agent-skills
+/plugin install agent-skills@danilotpnta-skills
 /reload-plugins
 ```
 
