@@ -34,6 +34,7 @@ Then in Claude Code settings, add the path to the cloned directory under `plugin
 | Skill | Description |
 |-------|-------------|
 | [uv-manager](skills/uv-manager/SKILL.md) | Manage Python projects and dependencies using uv — the authoritative convention for all Python work |
+| [gitingest](skills/gitingest/SKILL.md) | Convert any Git repository into a text file optimized for LLM consumption using `uvx gitingest` |
 
 ---
 
