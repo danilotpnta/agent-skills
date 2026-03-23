@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.2.0] - 2026-03-23
+
+### Added
+- `add-skill` skill: step-by-step checklist for adding a new skill to this repo, with `scripts/init_skill.py` scaffolding tool and `references/design-guide.md` covering design principles
+
 ## [1.1.0] - 2026-03-23
 
 ### Added
