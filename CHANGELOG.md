@@ -3,7 +3,7 @@
 ## [1.4.0] - 2026-03-30
 
 ### Added
-- `feature-doc` skill: generate comprehensive feature documentation from git history and code, with a bundled `FEATURE_TEMPLATE.md` asset
+- `ios-feature-doc` skill: generate comprehensive iOS feature documentation from git history and code, with a bundled `FEATURE_TEMPLATE.md` asset
 
 ## [1.3.0] - 2026-03-24
 
